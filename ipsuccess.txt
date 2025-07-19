@@ -1,7 +1,6 @@
-16.162.37.167:443#HK Hongkong
-8.217.232.246:2096#HK Hongkong
-16.162.10.198:443#HK Hongkong
-8.217.232.246:2053#HK Hongkong
+16.162.37.167#HK Hongkong
+8.217.232.246#HK Hongkong
+16.162.10.198#HK Hongkong
 43.100.17.13#HK Hongkong
 43.100.70.146#HK Hongkong
 43.100.70.147#HK Hongkong
