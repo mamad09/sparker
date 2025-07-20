@@ -16,13 +16,22 @@
 152.67.203.34#KR Inchon
 47.74.157.194#SG Singapore
 168.138.184.172#SG Singapore
+188.114.96.107#NL Amsterdam
 188.114.97.18#NL Amsterdam
+188.114.97.253#NL Amsterdam
 172.67.234.169#NL Amsterdam
 141.101.121.52#CA Toronto
+104.24.242.205#DE Flughafen
 104.25.240.241#DE Flughafen
 104.25.242.137#DE Flughafen
+104.24.244.65#DE Flughafen
+104.24.248.169#DE Flughafen
 104.25.255.75#DE Flughafen
+162.159.152.75#DE Flughafen
 23.227.60.72#US San Jose
+103.21.244.19#US San Jose
+104.16.67.90#US San Jose
+104.16.247.9#US San Jose
 104.17.89.146#US San Jose
 104.18.55.4#US San Jose
 104.18.163.171#US San Jose
@@ -41,6 +50,7 @@
 141.101.122.56#US San Jose
 141.101.123.197#US San Jose
 190.93.245.49#US San Jose
+190.93.246.11#US San Jose
 173.245.49.148#US San Jose
 173.245.49.209#US San Jose
 173.245.49.224#US San Jose
