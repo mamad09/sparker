@@ -26,12 +26,10 @@
 104.24.244.65#DE Flughafen
 104.24.248.169#DE Flughafen
 104.25.255.75#DE Flughafen
-162.159.128.74#DE Flughafen
 162.159.152.75#DE Flughafen
 162.159.153.81#DE Flughafen
 23.227.60.72#US San Jose
 47.57.181.17#US San Jose
-66.235.200.87#US San Jose
 103.21.244.19#US San Jose
 104.16.67.90#US San Jose
 104.16.247.9#US San Jose
