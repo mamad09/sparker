@@ -12,7 +12,7 @@
 172.64.229.182#JP Tokyo
 8.213.133.87#KR Inchon
 152.67.203.34#KR Inchon
-:47.74.157.194#SG Singapore
+47.74.157.194#SG Singapore
 168.138.184.172#SG Singapore
 188.114.96.107#NL Amsterdam
 188.114.97.18#NL Amsterdam
