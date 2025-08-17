@@ -1,13 +1,7 @@
 16.162.10.198#HK Hongkong
-43.100.17.13#HK Hongkong
-43.100.70.146#HK Hongkong
-43.100.70.147#HK Hongkong
-43.100.70.149#HK Hongkong
-43.100.70.150#HK Hongkong
 47.243.182.23#HK Hongkong
 172.64.229.96#HK Hongkong
 172.64.229.195#HK Hongkong
-132.145.116.185#JP Tokyo
 158.101.80.84#JP Tokyo
 172.64.229.54#JP Tokyo
 172.64.229.70#JP Tokyo
@@ -15,12 +9,9 @@
 172.64.229.83#JP Tokyo
 172.64.229.161#JP Tokyo
 172.64.229.182#JP Tokyo
-8.220.242.167#KR Inchon
-8.220.244.74#KR Inchon
 8.213.133.87#KR Inchon
 8.220.242.167#KR Inchon
 152.67.203.34#KR Inchon
-47.74.157.194#SG Singapore
 168.138.184.172#SG Singapore
 188.114.96.107#NL Amsterdam
 188.114.97.18#NL Amsterdam
