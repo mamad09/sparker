@@ -28,6 +28,7 @@
 162.159.153.81#DE Flughafen
 23.227.60.72#US San Jose
 47.57.181.17#US San Jose
+66.235.200.87#US San Jose
 103.21.244.19#US San Jose
 104.16.67.90#US San Jose
 104.16.247.9#US San Jose
@@ -57,6 +58,7 @@
 173.245.49.209#US San Jose
 173.245.49.220#US San Jose
 173.245.49.224#US San Jose
+185.146.173.211#US San Jose
 190.93.245.49#US San Jose
 190.93.246.11#US San Jose
 104.16.87.117#US Los Angeles
