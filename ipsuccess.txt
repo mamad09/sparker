@@ -48,6 +48,7 @@
 172.67.202.10#NL Amsterdam
 172.67.230.149#NL Amsterdam
 172.67.241.36#NL Amsterdam
+8.219.1.169#SG Singapore
 8.219.97.248#SG Singapore
 168.138.184.172#SG Singapore
 47.74.157.194#SG Singapore
