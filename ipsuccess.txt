@@ -29,6 +29,7 @@
 172.64.229.54#JP Tokyo
 172.64.229.75#JP Tokyo
 152.67.203.34#KR Inchon
+13.209.166.73#KR Inchon
 8.213.133.87#KR Inchon
 8.220.242.167#KR Inchon
 172.67.202.10#NL Amsterdam
