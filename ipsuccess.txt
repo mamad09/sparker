@@ -1,106 +1,106 @@
+104.24.140.204#DE Frankfurt
+104.25.132.49#DE Frankfurt
+104.25.148.60#DE Frankfurt
+104.25.162.254#DE Frankfurt
+104.25.178.84#DE Frankfurt
+104.25.198.97#DE Frankfurt
+104.25.251.240#DE Frankfurt
+104.27.107.112#DE Frankfurt
+104.27.199.107#DE Frankfurt
+104.27.202.166#DE Frankfurt
+104.27.205.127#DE Frankfurt
+104.27.206.244#DE Frankfurt
+104.27.206.9#DE Frankfurt
+104.27.207.127#DE Frankfurt
+104.27.61.102#DE Frankfurt
+104.27.68.162#DE Frankfurt
 16.162.10.198#HK Hongkong
-47.57.70.81#HK Hongkong
 47.243.182.23#HK Hongkong
+47.57.70.81#HK Hongkong
 132.145.116.185#JP Tokyo
 158.101.80.84#JP Tokyo
-172.64.229.54#JP Tokyo
-172.64.229.75#JP Tokyo
 172.64.229.150#JP Tokyo
 172.64.229.161#JP Tokyo
 172.64.229.162#JP Tokyo
 172.64.229.182#JP Tokyo
 172.64.229.240#JP Tokyo
-8.220.242.167#KR Inchon
-8.213.133.87#KR Inchon
+172.64.229.54#JP Tokyo
+172.64.229.75#JP Tokyo
 152.67.203.34#KR Inchon
-47.74.157.194#SG Singapore
-168.138.184.172#SG Singapore
-104.17.208.2#US San Jose
-104.19.115.216#US San Jose
-104.18.247.29#US San Jose
-104.19.127.250#US San Jose
-162.159.12.133#US San Jose
-172.64.48.74#US San Jose
-8.47.69.206#US San Jose
-104.18.124.129#US Los Angeles
-172.64.49.103#US San Jose
-104.18.64.71#US San Jose
-198.41.194.6#US San Jose
-104.17.239.155#US Los Angeles
-104.19.56.209#US San Jose
-190.93.245.21#US San Jose
-104.19.126.146#US San Jose
-104.21.224.187#US Los Angeles
-104.17.163.172#US Los Angeles
-104.21.225.35#US Los Angeles
-162.159.254.133#US Los Angeles
-104.21.234.223#US Los Angeles
-162.159.38.45#US Los Angeles
-104.19.12.188#US San Jose
-104.19.200.17#US Los Angeles
-172.64.40.192#US Los Angeles
-162.159.243.76#US Los Angeles
-104.21.237.191#US Los Angeles
-172.64.40.51#US Los Angeles
-162.159.255.25#US Los Angeles
-104.24.140.204#DE Frankfurt
+8.213.133.87#KR Inchon
+8.220.242.167#KR Inchon
 172.67.202.10#NL Amsterdam
-104.25.198.97#DE Frankfurt
-104.27.205.127#DE Frankfurt
-104.17.146.126#US San Jose
-104.21.232.127#US Los Angeles
-162.159.246.49#US Los Angeles
-104.21.239.124#US Los Angeles
-162.159.247.58#US Los Angeles
-172.67.241.36#NL Amsterdam
-162.159.195.228#US Los Angeles
-104.17.16.210#US Los Angeles
-172.64.66.74#US San Jose
-104.19.36.224#US San Jose
-162.159.248.79#US Los Angeles
-104.21.233.74#US Los Angeles
-104.21.235.162#US Los Angeles
-104.19.237.229#US San Jose
-104.29.124.126#US San Jose
-162.159.248.53#US Los Angeles
-104.25.162.254#DE Frankfurt
-104.16.249.180#US San Jose
-172.64.155.147#US San Jose
-104.25.178.84#DE Frankfurt
-104.19.110.94#US Los Angeles
-104.27.199.107#DE Frankfurt
-104.27.61.102#DE Frankfurt
-104.27.68.162#DE Frankfurt
-104.17.113.214#US San Jose
-104.25.148.60#DE Frankfurt
-162.159.33.201#US San Jose
-104.27.207.127#DE Frankfurt
-104.19.87.157#US San Jose
-8.47.69.68#US San Jose
-104.18.34.146#US San Jose
-104.25.251.240#DE Frankfurt
-104.16.9.0#US San Jose
-104.21.231.248#US Los Angeles
-104.27.202.166#DE Frankfurt
-104.18.120.211#US Los Angeles
-162.159.251.52#US Los Angeles
-104.17.243.45#US San Jose
 172.67.230.149#NL Amsterdam
-104.16.22.30#US San Jose
-162.159.61.103#US San Jose
-141.101.115.211#US San Jose
-104.27.206.244#DE Frankfurt
-162.159.254.159#US Los Angeles
-104.17.30.45#US San Jose
-172.64.89.214#US Los Angeles
-104.19.44.195#US San Jose
-104.16.142.237#US San Jose
-23.227.60.69#US San Jose
-141.101.114.41#US San Jose
-104.17.250.68#US San Jose
-104.25.132.49#DE Frankfurt
-104.21.230.87#US Los Angeles
-162.159.242.20#US Los Angeles
+172.67.241.36#NL Amsterdam
+168.138.184.172#SG Singapore
+47.74.157.194#SG Singapore
 104.16.117.180#US Los Angeles
-104.27.206.9#DE Frankfurt
-104.27.107.112#DE Frankfurt
+104.17.16.210#US Los Angeles
+104.17.163.172#US Los Angeles
+104.17.239.155#US Los Angeles
+104.18.120.211#US Los Angeles
+104.18.124.129#US Los Angeles
+104.19.110.94#US Los Angeles
+104.19.200.17#US Los Angeles
+104.21.224.187#US Los Angeles
+104.21.225.35#US Los Angeles
+104.21.230.87#US Los Angeles
+104.21.231.248#US Los Angeles
+104.21.232.127#US Los Angeles
+104.21.233.74#US Los Angeles
+104.21.234.223#US Los Angeles
+104.21.235.162#US Los Angeles
+104.21.237.191#US Los Angeles
+104.21.239.124#US Los Angeles
+162.159.195.228#US Los Angeles
+162.159.242.20#US Los Angeles
+162.159.243.76#US Los Angeles
+162.159.246.49#US Los Angeles
+162.159.247.58#US Los Angeles
+162.159.248.53#US Los Angeles
+162.159.248.79#US Los Angeles
+162.159.251.52#US Los Angeles
+162.159.254.133#US Los Angeles
+162.159.254.159#US Los Angeles
+162.159.255.25#US Los Angeles
+162.159.38.45#US Los Angeles
+172.64.40.192#US Los Angeles
+172.64.40.51#US Los Angeles
+172.64.89.214#US Los Angeles
+104.16.142.237#US San Jose
+104.16.22.30#US San Jose
+104.16.249.180#US San Jose
+104.16.9.0#US San Jose
+104.17.113.214#US San Jose
+104.17.146.126#US San Jose
+104.17.208.2#US San Jose
+104.17.243.45#US San Jose
+104.17.250.68#US San Jose
+104.17.30.45#US San Jose
+104.18.247.29#US San Jose
+104.18.34.146#US San Jose
+104.18.64.71#US San Jose
+104.19.115.216#US San Jose
+104.19.12.188#US San Jose
+104.19.126.146#US San Jose
+104.19.127.250#US San Jose
+104.19.237.229#US San Jose
+104.19.36.224#US San Jose
+104.19.44.195#US San Jose
+104.19.56.209#US San Jose
+104.19.87.157#US San Jose
+104.29.124.126#US San Jose
+141.101.114.41#US San Jose
+141.101.115.211#US San Jose
+162.159.12.133#US San Jose
+162.159.33.201#US San Jose
+162.159.61.103#US San Jose
+172.64.155.147#US San Jose
+172.64.48.74#US San Jose
+172.64.49.103#US San Jose
+172.64.66.74#US San Jose
+190.93.245.21#US San Jose
+198.41.194.6#US San Jose
+23.227.60.69#US San Jose
+8.47.69.206#US San Jose
+8.47.69.68#US San Jose
