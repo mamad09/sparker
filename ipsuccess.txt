@@ -20,6 +20,7 @@
 47.57.13.107#HK Hongkong
 47.57.70.81#HK Hongkong
 47.76.218.163#HK Hongkong
+54.150.195.218#JP Osaka
 64.110.104.30#JP Osaka
 217.142.243.226#JP Osaka
 168.138.46.67#JP Osaka
