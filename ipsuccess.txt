@@ -53,6 +53,11 @@
 146.56.146.67#SG Singapore
 168.138.184.172#SG Singapore
 47.74.157.194#SG Singapore
+138.2.95.33:17465#SG Singapore
+4.194.131.141:8081#SG Singapore
+34.143.159.175:443#SG Singapore
+213.35.107.73:443#SG Singapore
+158.178.229.178:443#SG Singapore
 104.16.117.180#US Los Angeles
 104.17.16.210#US Los Angeles
 104.17.163.172#US Los Angeles
