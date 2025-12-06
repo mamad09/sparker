@@ -15,7 +15,6 @@
 104.27.61.102#DE Frankfurt
 104.27.68.162#DE Frankfurt
 104.16.20.86#TW TaiPei
-8.20.101.9#TW Taipei
 104.16.27.15#TW Taipei
 16.162.10.198#HK Hongkong
 47.243.182.23#HK Hongkong
