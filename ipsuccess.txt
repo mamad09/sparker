@@ -55,6 +55,26 @@
 34.143.159.175:443#SG Singapore
 213.35.107.73:443#SG Singapore
 158.178.229.178:443#SG Singapore
+162.159.0.7#sg Singapore
+108.162.192.1#sg Singapore
+108.162.192.2#sg Singapore
+172.64.32.2#sg Singapore
+172.64.32.8#sg Singapore
+108.162.192.8#sg Singapore
+108.162.192.3#sg Singapore
+162.159.0.2#sg Singapore
+162.159.0.6#sg Singapore
+172.64.32.9#sg Singapore
+162.159.0.1#sg Singapore
+162.159.0.3#sg Singapore
+108.162.192.6#sg Singapore
+162.159.0.4#sg Singapore
+172.64.32.1#sg Singapore
+108.162.192.4#sg Singapore
+172.64.32.6#sg Singapore
+108.162.192.7#sg Singapore
+162.159.0.5#sg Singapore
+172.64.32.7#sg Singapore
 104.16.117.180#US Los Angeles
 104.17.16.210#US Los Angeles
 104.17.163.172#US Los Angeles
